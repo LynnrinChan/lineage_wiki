@@ -125,7 +125,7 @@ There are no recovery installation instructions for this discontinued device.
 {% if device.is_ab_device or device.uses_twrp != true %}
     {% include alerts/specific/note_signature_check.html %}
 {%- endif %}
-    {% include alerts/note.html content="If you want the Google Apps add-on on your device, you must follow this step **before** booting into Lynnrin-AOSP for the first time!" %}
+    {% include alerts/note.html content="Google Apps already included on Lynnrin-AOSP, no need install Google Apps add-on any more" %}
 {%- if device.current_branch >= 17.1 %}
 {%- if device.uses_twrp and device.is_ab_device != true %}
 8. Once you have installed everything successfully, run 'adb reboot'.
