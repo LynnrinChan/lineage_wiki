@@ -2,13 +2,13 @@
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-title: LineageOS Wiki
+title: Lynnrin-AOSP Wiki
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: The LineageOS Project
 # this appears in the footer
 
-host: 127.0.0.1
+host: 0.0.0.0
 # the preview server used. Leave as is.
 
 port: 4000
@@ -62,7 +62,7 @@ sass:
   style: :compressed # You might prefer to minify using :compressed
   sourcemap: true
 
-description: "The LineageOS Wiki"
+description: "The Lynnrin-AOSP Wiki"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only

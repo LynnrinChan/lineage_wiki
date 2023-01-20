@@ -9,7 +9,7 @@
 
 {% if device.maintainers != empty %}
 ## Get LineageOS for the {{ device.vendor }} {{ device.name }}
-[Get the builds here](https://download.lineageos.org/{{ device.codename }})
+[Get the builds here]({{device.download_link}})
 {% endif %}
 
 ## Guides
@@ -33,11 +33,9 @@
 {%- endif %}
 
 - [Installation]({{ path_prefix | append: "/install" | relative_url }})
-- [Build for yourself]({{ path_prefix | append: "/build" | relative_url }})
 {%- if device.firmware_update %}
 - [Update to a newer vendor firmware version]({{ path_prefix | append: "/fw_update" | relative_url }})
 {%- endif %}
-- [Update to a newer build of the same LineageOS version]({{ path_prefix | append: "/update" | relative_url }})
 {% assign versions_count = device.versions|size -%}
 {%- if versions_count > 1 -%}
 - [Upgrade to a higher version of LineageOS (e.g. lineage-{{ prev_branch }} -> lineage-{{ curr_branch }})]({{ path_prefix | append: "/upgrade" | relative_url }})
@@ -60,7 +58,3 @@
 * **Bootloader/Fastboot/Download**: {{ device.download_boot }}
 {% endif %}
 {% endif %}
-
-## Find help online
-
-You can find assistance with LineageOS on [our subreddit](https://reddit.com/r/LineageOS), or in [#LineageOS on Libera.Chat](https://kiwiirc.com/nextclient/irc.libera.chat#lineageos).

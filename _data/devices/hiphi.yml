@@ -1,0 +1,44 @@
+architecture: arm64
+battery: {removable: False, capacity: 5000 , tech: 'Li-Po'}
+before_lineage_install: ab_copy_partitions
+before_recovery_install: {instructions: 'boot_stack', partitions: [vendor_boot]}
+bluetooth: {spec: '5.2', profiles: [A2DP + aptX HD]}
+cameras:
+- {flash: 'LED', info: '50 MP (Primary)'}
+- {flash: None, info: '50 MP (ultrawide)'}
+- {flash: None, info: '2 MP (depth)'}
+- {flash: None, info: '60 MP (Front Facing)'}
+codename: hiphi
+cpu: Octa-core
+cpu_cores: '8'
+cpu_freq: 1 x 3.00 GHz + 3 x 2.50 GHz & 4 x 1.80 GHz
+current_branch: 20
+custom_recovery_link_instructions: Download the file named `vendor_boot.img` from the directory named with the latest date.
+dimensions: {width: '74.2 mm (2.92 in)', height: '159.4 mm (6.28 in)', depth: '6.8 mm (0.27 in)'}
+download_boot: With the device powered off, hold <kbd>Volume Down</kbd> + <kbd>Power</kbd>.
+gpu: Adreno 730
+image: hiphi.png
+install_method: fastboot_motorola
+is_ab_device: true
+has_recovery_partition: true
+kernel: android_kernel_motorola_hiphi
+maintainers: Lynnrin
+models: [XT2201-1, XT2201-2, XT2201-3]
+name: edge 30 pro / edge X30 /edge+ 2022
+network: [2G GSM, 2G CDMA, 3G UMTS, 4G LTE, 5G NR]
+peripherals: [A-GPS, Accelerometer, Compass, Dual speakers, Dual SIM, Fingerprint reader, Galileo, GLONASS, GPS, Gyroscope, Light sensor, NFC, Pedometer, Proximity sensor, Sensor hub, USB OTG]
+ram: 6/8/12 GB LPDDR5 (uMPC5)
+recovery_boot: With the device powered off, hold <kbd>Volume Down</kbd> + <kbd>Power</kbd>, then select "Recovery mode" using Volume keys.
+recovery_reboot: fastboot_menu
+release: 2021-12
+screen: {size: '102.0 mm (6.5 in)', density: 405, resolution: '1080x2400', technology: 'P-OLED'}
+soc: Qualcomm SM8450 Snapdragon 8 Gen 1
+storage: 128/256 GB UFS 3.1 (uMCP5)
+tree: android_device_motorola_dubai
+type: phone
+vendor: Motorola
+vendor_short: motorola
+versions: [20]
+wifi: 802.11 a/b/g/n/ac, Dual band, Wi-Fi Direct, Hotspot, Wi-Fi 6E, 4x4 MU-MIMO
+download_link: "https://download.lynnrin.moe/OneDrive/ROM/Motorola%20Edge%20X30%20&%2030%20Pro/AOSP"
+recovery_download_link: "https://download.lynnrin.moe/OneDrive/ROM/Motorola%20Edge%20X30%20&%2030%20Pro/AOSP/recovery.img"

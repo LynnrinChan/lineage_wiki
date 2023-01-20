@@ -12,9 +12,9 @@ Do **not** continue after something fails!" %}
 {%- endif %}
 5. Boot your device with the stock OS at least once and check every functionality.
 {%- if device.type == "phone" %}
-  Make sure that you can send and receive SMS and place and receive calls (also via WiFi and LTE, if available), otherwise it won't work on LineageOS either!
+  Make sure that you can send and receive SMS and place and receive calls (also via WiFi and LTE, if available), otherwise it won't work on Lynnrin-AOSP either!
 {%- endif %}
-6. LineageOS is provided as-is with no warranty. While we attempt to verify [everything works](https://github.com/LineageOS/charter/blob/master/device-support-requirements.md) you are installing this at your own risk!
+6. Lynnrin-AOSP is provided as-is with no warranty. You are installing this at your own risk!
 
 {%- if device.before_install %}
 {% capture path %}templates/device_specific/before_install_{{ device.before_install.instructions }}.md{% endcapture %}
@@ -65,7 +65,7 @@ There are no recovery installation instructions for this discontinued device.
 {% include {{ path }} %}
 {%- endif %}
 
-## Installing LineageOS from recovery
+## Installing Lynnrin-AOSP from recovery
 
 {%- if device.architecture.userspace -%}
 {% assign userspace_architecture = device.architecture.userspace %}
@@ -74,14 +74,13 @@ There are no recovery installation instructions for this discontinued device.
 {%- endif -%}
 
 {%- if device.maintainers != empty %}
-1. Download the [LineageOS installation package](https://download.lineageos.org/{{ device.codename }}) that you would like to install or [build]({{ "devices/" | append: device.codename | append: "/build" | relative_url }}) the package yourself.
+1. Download the [Lynnrin-AOSP installation package]({{device.download_link}}) that you would like to install.
 {%- if device.is_retrofit_dynamic_partitions and device.is_ab_device != true %}
     * You will also need to flash an empty super image since your device uses retrofitted dynamic partitions: download super_empty.img from the directory named with the latest date [here](https://mirror.math.princeton.edu/pub/lineageos/full/{{ device.codename }}/)
 {%- endif %}
 {%- else %}
-1. [Build]({{ "devices/" | append: device.codename | append: "/build" | relative_url }}) a LineageOS installation package.
+1. [Build]({{ "devices/" | append: device.codename | append: "/build" | relative_url }}) a Lynnrin-AOSP installation package.
 {%- endif %}
-    * _(Optionally)_: If you want to install an application package add-on such as [Google Apps]({{ "gapps.html" | relative_url }}) (use the `{{ userspace_architecture }}` architecture), please read and follow the instructions on [Google Apps page]({{ "gapps.html" | relative_url }})
 2. If you are not in recovery, reboot into recovery:
     * {{ device.recovery_boot }}
     {% if device.vendor == "LG" %}
@@ -94,7 +93,7 @@ There are no recovery installation instructions for this discontinued device.
 {%- else %}
 5. Return to the previous menu and tap **Advanced Wipe**, then select the *Cache* and *System* partitions and then **Swipe to Wipe**.
 {%- endif %}
-6. Sideload the LineageOS `.zip` package:
+6. Sideload the Lynnrin-AOSP `.zip` package:
     * On the device, select "Advanced", "ADB Sideload", then swipe to begin sideload.
     * On the host machine, sideload the package using: `adb sideload filename.zip`.
         {% include alerts/specific/tip_adb_flash_success.html %}
@@ -108,7 +107,7 @@ There are no recovery installation instructions for this discontinued device.
     * Once the command succeded, select **Enter recovery** on the device to return to recovery mode.
         {% include alerts/specific/note_retrofit_fastboot_wipe_super_failed.html %}
 {%- endif %}
-6. Sideload the LineageOS `.zip` package:
+6. Sideload the Lynnrin-AOSP`.zip` package:
     * On the device, select "Apply Update", then "Apply from ADB" to begin sideload.
     * On the host machine, sideload the package using: `adb sideload filename.zip`.
         {% include alerts/specific/tip_adb_flash_success.html %}
@@ -126,7 +125,7 @@ There are no recovery installation instructions for this discontinued device.
 {% if device.is_ab_device or device.uses_twrp != true %}
     {% include alerts/specific/note_signature_check.html %}
 {%- endif %}
-    {% include alerts/note.html content="If you want the Google Apps add-on on your device, you must follow this step **before** booting into LineageOS for the first time!" %}
+    {% include alerts/note.html content="If you want the Google Apps add-on on your device, you must follow this step **before** booting into Lynnrin-AOSP for the first time!" %}
 {%- if device.current_branch >= 17.1 %}
 {%- if device.uses_twrp and device.is_ab_device != true %}
 8. Once you have installed everything successfully, run 'adb reboot'.
@@ -135,10 +134,10 @@ There are no recovery installation instructions for this discontinued device.
 {%- endif %}
 {%- else %}
 {%- if device.uses_twrp and device.is_ab_device != true %}
-8. _(Optionally)_: Root your device by installing [LineageOS' AddonSU](https://download.lineageos.org/extras), (use the `{{ userspace_architecture }}` package) or by using any other method you prefer.
+8. _(Optionally)_: Root your device by installing [Lynnrin-AOSP' AddonSU](https://download.lineageos.org/extras), (use the `{{ userspace_architecture }}` package) or by using any other method you prefer.
 9. Once you have installed everything successfully, run 'adb reboot'.
 {%- else %}
-8. _(Optionally)_: Root your device by installing [LineageOS' AddonSU](https://download.lineageos.org/extras), (use the `{{ userspace_architecture }}` package) or by using any other method you prefer.
+8. _(Optionally)_: Root your device by installing [Lynnrin-AOSP' AddonSU](https://download.lineageos.org/extras), (use the `{{ userspace_architecture }}` package) or by using any other method you prefer.
 9. Once you have installed everything successfully, click the back arrow in the top left of the screen, then "Reboot system now".
 {%- endif %}
 {%- endif %}
@@ -153,10 +152,5 @@ If it takes longer, you may have missed a step, otherwise feel free to [get assi
 {% if device.custom_recovery_link or device.uses_twrp %}
 {% include alerts/specific/warning_recovery_app.html %}
 {% endif %}
-
-## Get assistance
-
-After you've double checked that you followed the steps precisely, didn't skip any and still have questions or got stuck, feel free to ask on [our subreddit](https://reddit.com/r/LineageOS) or in
-[#LineageOS on Libera.Chat](https://kiwiirc.com/nextclient/irc.libera.chat#lineageos).
 
 </div>

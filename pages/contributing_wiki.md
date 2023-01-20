@@ -45,7 +45,7 @@ git config --global user.name "Your Name"
 git config --global user.email "youremail@example.com"
 ```
 
-{% include alerts/tip.html content="Before this step, you can fork the LineageOS wiki repository and work on your own copy. That way you can preview your changes online using GitHub pages, which [we've detailed below](#preview-using-github). Just fork the repo and then replace LineageOS in the `git clone` command with your GitHub username." %}
+{% include alerts/tip.html content="Before this step, you can fork the Lynnrin-AOSP wiki repository and work on your own copy. That way you can preview your changes online using GitHub pages, which [we've detailed below](#preview-using-github). Just fork the repo and then replace LineageOS in the `git clone` command with your GitHub username." %}
 
 ```
 git clone https://github.com/LineageOS/lineage_wiki ~/lineage_wiki
