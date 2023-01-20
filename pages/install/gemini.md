@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on gemini
+title: Install Lynnrin-AOSP on gemini
 folder: install
 permalink: /devices/gemini/install
 device: gemini

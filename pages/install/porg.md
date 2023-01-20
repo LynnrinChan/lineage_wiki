@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on porg
+title: Install Lynnrin-AOSP on porg
 folder: install
 permalink: /devices/porg/install
 device: porg

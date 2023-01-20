@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on bramble
+title: Install Lynnrin-AOSP on bramble
 folder: install
 permalink: /devices/bramble/install
 device: bramble

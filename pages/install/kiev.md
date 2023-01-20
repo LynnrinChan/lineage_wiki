@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kiev
+title: Install Lynnrin-AOSP on kiev
 folder: install
 permalink: /devices/kiev/install
 device: kiev

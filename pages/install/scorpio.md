@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on scorpio
+title: Install Lynnrin-AOSP on scorpio
 folder: install
 permalink: /devices/scorpio/install
 device: scorpio

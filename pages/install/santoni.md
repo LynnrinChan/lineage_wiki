@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on santoni
+title: Install Lynnrin-AOSP on santoni
 folder: install
 permalink: /devices/santoni/install
 device: santoni

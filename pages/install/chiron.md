@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on chiron
+title: Install Lynnrin-AOSP on chiron
 folder: install
 permalink: /devices/chiron/install
 device: chiron

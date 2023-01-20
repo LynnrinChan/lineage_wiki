@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on ido
+title: Install Lynnrin-AOSP on ido
 folder: install
 permalink: /devices/ido/install
 device: ido

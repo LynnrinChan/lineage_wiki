@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on twolip
+title: Install Lynnrin-AOSP on twolip
 folder: install
 permalink: /devices/twolip/install
 device: twolip

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on monet
+title: Install Lynnrin-AOSP on monet
 folder: install
 permalink: /devices/monet/install
 device: monet

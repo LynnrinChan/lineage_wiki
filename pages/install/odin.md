@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on odin
+title: Install Lynnrin-AOSP on odin
 folder: install
 permalink: /devices/odin/install
 device: odin

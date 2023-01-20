@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on klimtwifi
+title: Install Lynnrin-AOSP on klimtwifi
 folder: install
 permalink: /devices/klimtwifi/install
 device: klimtwifi

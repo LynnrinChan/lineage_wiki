@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on libra
+title: Install Lynnrin-AOSP on libra
 folder: install
 permalink: /devices/libra/install
 device: libra

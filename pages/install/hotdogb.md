@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hotdogb
+title: Install Lynnrin-AOSP on hotdogb
 folder: install
 permalink: /devices/hotdogb/install
 device: hotdogb

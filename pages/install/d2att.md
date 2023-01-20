@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on d2att
+title: Install Lynnrin-AOSP on d2att
 folder: install
 permalink: /devices/d2att/install
 device: d2att

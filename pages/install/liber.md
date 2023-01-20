@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on liber
+title: Install Lynnrin-AOSP on liber
 folder: install
 permalink: /devices/liber/install
 device: liber

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on a5xelte
+title: Install Lynnrin-AOSP on a5xelte
 folder: install
 permalink: /devices/a5xelte/install
 device: a5xelte

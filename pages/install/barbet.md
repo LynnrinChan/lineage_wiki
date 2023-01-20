@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on barbet
+title: Install Lynnrin-AOSP on barbet
 folder: install
 permalink: /devices/barbet/install
 device: barbet

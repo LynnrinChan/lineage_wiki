@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on beckham
+title: Install Lynnrin-AOSP on beckham
 folder: install
 permalink: /devices/beckham/install
 device: beckham

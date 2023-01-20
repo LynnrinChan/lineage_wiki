@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on cancro
+title: Install Lynnrin-AOSP on cancro
 folder: install
 permalink: /devices/cancro/install
 device: cancro

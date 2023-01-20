@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on sirius
+title: Install Lynnrin-AOSP on sirius
 folder: install
 permalink: /devices/sirius/install
 device: sirius

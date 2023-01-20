@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on wayne
+title: Install Lynnrin-AOSP on wayne
 folder: install
 permalink: /devices/wayne/install
 device: wayne

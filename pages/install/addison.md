@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on addison
+title: Install Lynnrin-AOSP on addison
 folder: install
 permalink: /devices/addison/install
 device: addison

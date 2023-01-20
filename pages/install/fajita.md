@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on fajita
+title: Install Lynnrin-AOSP on fajita
 folder: install
 permalink: /devices/fajita/install
 device: fajita

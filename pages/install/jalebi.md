@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on jalebi
+title: Install Lynnrin-AOSP on jalebi
 folder: install
 permalink: /devices/jalebi/install
 device: jalebi

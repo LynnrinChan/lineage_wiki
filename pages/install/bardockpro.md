@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on bardockpro
+title: Install Lynnrin-AOSP on bardockpro
 folder: install
 permalink: /devices/bardockpro/install
 device: bardockpro

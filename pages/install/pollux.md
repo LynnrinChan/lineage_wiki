@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on pollux
+title: Install Lynnrin-AOSP on pollux
 folder: install
 permalink: /devices/pollux/install
 device: pollux

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kltekor
+title: Install Lynnrin-AOSP on kltekor
 folder: install
 permalink: /devices/kltekor/install
 device: kltekor

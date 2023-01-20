@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on ginkgo
+title: Install Lynnrin-AOSP on ginkgo
 folder: install
 permalink: /devices/ginkgo/install
 device: ginkgo

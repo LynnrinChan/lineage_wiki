@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on shieldtablet
+title: Install Lynnrin-AOSP on shieldtablet
 folder: install
 permalink: /devices/shieldtablet/install
 device: shieldtablet

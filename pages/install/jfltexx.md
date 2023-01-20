@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on jfltexx
+title: Install Lynnrin-AOSP on jfltexx
 folder: install
 permalink: /devices/jfltexx/install
 device: jfltexx

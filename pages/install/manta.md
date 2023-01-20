@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on manta
+title: Install Lynnrin-AOSP on manta
 folder: install
 permalink: /devices/manta/install
 device: manta

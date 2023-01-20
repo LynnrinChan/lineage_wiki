@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on roth
+title: Install Lynnrin-AOSP on roth
 folder: install
 permalink: /devices/roth/install
 device: roth

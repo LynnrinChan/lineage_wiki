@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on ivy
+title: Install Lynnrin-AOSP on ivy
 folder: install
 permalink: /devices/ivy/install
 device: ivy

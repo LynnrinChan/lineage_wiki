@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kiwi
+title: Install Lynnrin-AOSP on kiwi
 folder: install
 permalink: /devices/kiwi/install
 device: kiwi

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on DRG
+title: Install Lynnrin-AOSP on DRG
 folder: install
 permalink: /devices/DRG/install
 device: DRG

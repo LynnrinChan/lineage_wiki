@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on whyred
+title: Install Lynnrin-AOSP on whyred
 folder: install
 permalink: /devices/whyred/install
 device: whyred

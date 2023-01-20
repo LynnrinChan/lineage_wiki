@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hltetmo
+title: Install Lynnrin-AOSP on hltetmo
 folder: install
 permalink: /devices/hltetmo/install
 device: hltetmo

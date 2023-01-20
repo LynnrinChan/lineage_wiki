@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on starlte
+title: Install Lynnrin-AOSP on starlte
 folder: install
 permalink: /devices/starlte/install
 device: starlte

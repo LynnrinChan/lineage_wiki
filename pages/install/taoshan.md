@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on taoshan
+title: Install Lynnrin-AOSP on taoshan
 folder: install
 permalink: /devices/taoshan/install
 device: taoshan

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on piccolo
+title: Install Lynnrin-AOSP on piccolo
 folder: install
 permalink: /devices/piccolo/install
 device: piccolo

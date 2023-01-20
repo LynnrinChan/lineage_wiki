@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on pme
+title: Install Lynnrin-AOSP on pme
 folder: install
 permalink: /devices/pme/install
 device: pme

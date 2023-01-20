@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on otus
+title: Install Lynnrin-AOSP on otus
 folder: install
 permalink: /devices/otus/install
 device: otus

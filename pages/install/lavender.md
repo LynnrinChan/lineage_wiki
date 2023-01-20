@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lavender
+title: Install Lynnrin-AOSP on lavender
 folder: install
 permalink: /devices/lavender/install
 device: lavender

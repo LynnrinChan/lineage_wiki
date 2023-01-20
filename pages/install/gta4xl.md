@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on gta4xl
+title: Install Lynnrin-AOSP on gta4xl
 folder: install
 permalink: /devices/gta4xl/install
 device: gta4xl

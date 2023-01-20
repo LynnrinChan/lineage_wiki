@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on cherry
+title: Install Lynnrin-AOSP on cherry
 folder: install
 permalink: /devices/cherry/install
 device: cherry

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on racer
+title: Install Lynnrin-AOSP on racer
 folder: install
 permalink: /devices/racer/install
 device: racer

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on chagalllte
+title: Install Lynnrin-AOSP on chagalllte
 folder: install
 permalink: /devices/chagalllte/install
 device: chagalllte

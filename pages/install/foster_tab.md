@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on foster_tab
+title: Install Lynnrin-AOSP on foster_tab
 folder: install
 permalink: /devices/foster_tab/install
 device: foster_tab

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on X01AD
+title: Install Lynnrin-AOSP on X01AD
 folder: install
 permalink: /devices/X01AD/install
 device: X01AD

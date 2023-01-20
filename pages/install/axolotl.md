@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on axolotl
+title: Install Lynnrin-AOSP on axolotl
 folder: install
 permalink: /devices/axolotl/install
 device: axolotl

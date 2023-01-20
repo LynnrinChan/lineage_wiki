@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on apollon
+title: Install Lynnrin-AOSP on apollon
 folder: install
 permalink: /devices/apollon/install
 device: apollon

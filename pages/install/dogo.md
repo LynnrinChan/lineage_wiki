@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on dogo
+title: Install Lynnrin-AOSP on dogo
 folder: install
 permalink: /devices/dogo/install
 device: dogo

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on violet
+title: Install Lynnrin-AOSP on violet
 folder: install
 permalink: /devices/violet/install
 device: violet

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on z3c
+title: Install Lynnrin-AOSP on z3c
 folder: install
 permalink: /devices/z3c/install
 device: z3c

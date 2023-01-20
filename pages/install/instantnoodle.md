@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on instantnoodle
+title: Install Lynnrin-AOSP on instantnoodle
 folder: install
 permalink: /devices/instantnoodle/install
 device: instantnoodle

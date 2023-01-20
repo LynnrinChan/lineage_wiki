@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on gauguin
+title: Install Lynnrin-AOSP on gauguin
 folder: install
 permalink: /devices/gauguin/install
 device: gauguin

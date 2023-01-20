@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on mata
+title: Install Lynnrin-AOSP on mata
 folder: install
 permalink: /devices/mata/install
 device: mata

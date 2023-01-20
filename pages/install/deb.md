@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on deb
+title: Install Lynnrin-AOSP on deb
 folder: install
 permalink: /devices/deb/install
 device: deb

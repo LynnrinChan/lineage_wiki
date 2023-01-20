@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on vegetalte
+title: Install Lynnrin-AOSP on vegetalte
 folder: install
 permalink: /devices/vegetalte/install
 device: vegetalte

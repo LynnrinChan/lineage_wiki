@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on crosshatch
+title: Install Lynnrin-AOSP on crosshatch
 folder: install
 permalink: /devices/crosshatch/install
 device: crosshatch

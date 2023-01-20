@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on gohan
+title: Install Lynnrin-AOSP on gohan
 folder: install
 permalink: /devices/gohan/install
 device: gohan

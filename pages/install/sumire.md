@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on sumire
+title: Install Lynnrin-AOSP on sumire
 folder: install
 permalink: /devices/sumire/install
 device: sumire

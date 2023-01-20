@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on zeroltexx
+title: Install Lynnrin-AOSP on zeroltexx
 folder: install
 permalink: /devices/zeroltexx/install
 device: zeroltexx

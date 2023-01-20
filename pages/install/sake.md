@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on sake
+title: Install Lynnrin-AOSP on sake
 folder: install
 permalink: /devices/sake/install
 device: sake

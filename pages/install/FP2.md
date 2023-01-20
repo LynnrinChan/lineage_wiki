@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on FP2
+title: Install Lynnrin-AOSP on FP2
 folder: install
 permalink: /devices/FP2/install
 device: FP2

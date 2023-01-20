@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on spyder
+title: Install Lynnrin-AOSP on spyder
 folder: install
 permalink: /devices/spyder/install
 device: spyder

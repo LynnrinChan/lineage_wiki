@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on shamu
+title: Install Lynnrin-AOSP on shamu
 folder: install
 permalink: /devices/shamu/install
 device: shamu

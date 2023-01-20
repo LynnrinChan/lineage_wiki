@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hltechn
+title: Install Lynnrin-AOSP on hltechn
 folder: install
 permalink: /devices/hltechn/install
 device: hltechn

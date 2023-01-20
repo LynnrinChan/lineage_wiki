@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on flounder
+title: Install Lynnrin-AOSP on flounder
 folder: install
 permalink: /devices/flounder/install
 device: flounder

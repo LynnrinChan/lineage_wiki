@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on dipper
+title: Install Lynnrin-AOSP on dipper
 folder: install
 permalink: /devices/dipper/install
 device: dipper

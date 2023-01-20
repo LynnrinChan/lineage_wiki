@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on condor
+title: Install Lynnrin-AOSP on condor
 folder: install
 permalink: /devices/condor/install
 device: condor

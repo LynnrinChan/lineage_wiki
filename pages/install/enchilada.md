@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on enchilada
+title: Install Lynnrin-AOSP on enchilada
 folder: install
 permalink: /devices/enchilada/install
 device: enchilada

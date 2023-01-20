@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kebab
+title: Install Lynnrin-AOSP on kebab
 folder: install
 permalink: /devices/kebab/install
 device: kebab

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kenzo
+title: Install Lynnrin-AOSP on kenzo
 folder: install
 permalink: /devices/kenzo/install
 device: kenzo

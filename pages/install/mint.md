@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on mint
+title: Install Lynnrin-AOSP on mint
 folder: install
 permalink: /devices/mint/install
 device: mint

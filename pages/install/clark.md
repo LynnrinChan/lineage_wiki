@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on clark
+title: Install Lynnrin-AOSP on clark
 folder: install
 permalink: /devices/clark/install
 device: clark

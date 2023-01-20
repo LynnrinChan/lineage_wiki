@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on crackling
+title: Install Lynnrin-AOSP on crackling
 folder: install
 permalink: /devices/crackling/install
 device: crackling

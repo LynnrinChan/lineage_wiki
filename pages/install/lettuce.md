@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lettuce
+title: Install Lynnrin-AOSP on lettuce
 folder: install
 permalink: /devices/lettuce/install
 device: lettuce

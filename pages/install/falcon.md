@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on falcon
+title: Install Lynnrin-AOSP on falcon
 folder: install
 permalink: /devices/falcon/install
 device: falcon

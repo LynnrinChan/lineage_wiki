@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on zenfone3
+title: Install Lynnrin-AOSP on zenfone3
 folder: install
 permalink: /devices/zenfone3/install
 device: zenfone3

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on mido
+title: Install Lynnrin-AOSP on mido
 folder: install
 permalink: /devices/mido/install
 device: mido

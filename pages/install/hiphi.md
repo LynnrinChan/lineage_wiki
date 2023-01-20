@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hiphi
+title: Install Lynnrin-AOSP on hiphi
 folder: install
 permalink: /devices/hiphi/install
 device: hiphi

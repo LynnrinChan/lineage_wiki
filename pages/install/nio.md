@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on nio
+title: Install Lynnrin-AOSP on nio
 folder: install
 permalink: /devices/nio/install
 device: nio

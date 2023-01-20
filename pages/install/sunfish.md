@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on sunfish
+title: Install Lynnrin-AOSP on sunfish
 folder: install
 permalink: /devices/sunfish/install
 device: sunfish

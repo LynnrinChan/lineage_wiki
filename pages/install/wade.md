@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on wade
+title: Install Lynnrin-AOSP on wade
 folder: install
 permalink: /devices/wade/install
 device: wade

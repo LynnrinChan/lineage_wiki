@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kltechn
+title: Install Lynnrin-AOSP on kltechn
 folder: install
 permalink: /devices/kltechn/install
 device: kltechn

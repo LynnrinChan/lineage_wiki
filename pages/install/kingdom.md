@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kingdom
+title: Install Lynnrin-AOSP on kingdom
 folder: install
 permalink: /devices/kingdom/install
 device: kingdom

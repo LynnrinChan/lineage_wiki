@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on pyxis
+title: Install Lynnrin-AOSP on pyxis
 folder: install
 permalink: /devices/pyxis/install
 device: pyxis

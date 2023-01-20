@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kltesprsports
+title: Install Lynnrin-AOSP on kltesprsports
 folder: install
 permalink: /devices/kltesprsports/install
 device: kltesprsports

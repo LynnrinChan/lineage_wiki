@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on espresso3g
+title: Install Lynnrin-AOSP on espresso3g
 folder: install
 permalink: /devices/espresso3g/install
 device: espresso3g

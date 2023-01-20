@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on dubai
+title: Install Lynnrin-AOSP on dubai
 folder: install
 permalink: /devices/dubai/install
 device: dubai

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on nash
+title: Install Lynnrin-AOSP on nash
 folder: install
 permalink: /devices/nash/install
 device: nash

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hannah
+title: Install Lynnrin-AOSP on hannah
 folder: install
 permalink: /devices/hannah/install
 device: hannah

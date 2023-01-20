@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lmi
+title: Install Lynnrin-AOSP on lmi
 folder: install
 permalink: /devices/lmi/install
 device: lmi

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on onclite
+title: Install Lynnrin-AOSP on onclite
 folder: install
 permalink: /devices/onclite/install
 device: onclite

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on platina
+title: Install Lynnrin-AOSP on platina
 folder: install
 permalink: /devices/platina/install
 device: platina

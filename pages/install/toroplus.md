@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on toroplus
+title: Install Lynnrin-AOSP on toroplus
 folder: install
 permalink: /devices/toroplus/install
 device: toroplus

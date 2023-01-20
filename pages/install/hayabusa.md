@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on hayabusa
+title: Install Lynnrin-AOSP on hayabusa
 folder: install
 permalink: /devices/hayabusa/install
 device: hayabusa

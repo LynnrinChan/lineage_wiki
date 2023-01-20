@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kane
+title: Install Lynnrin-AOSP on kane
 folder: install
 permalink: /devices/kane/install
 device: kane

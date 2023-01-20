@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on cheryl
+title: Install Lynnrin-AOSP on cheryl
 folder: install
 permalink: /devices/cheryl/install
 device: cheryl

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on alioth
+title: Install Lynnrin-AOSP on alioth
 folder: install
 permalink: /devices/alioth/install
 device: alioth

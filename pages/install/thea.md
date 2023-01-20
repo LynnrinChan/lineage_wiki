@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on thea
+title: Install Lynnrin-AOSP on thea
 folder: install
 permalink: /devices/thea/install
 device: thea

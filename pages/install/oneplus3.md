@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on oneplus3
+title: Install Lynnrin-AOSP on oneplus3
 folder: install
 permalink: /devices/oneplus3/install
 device: oneplus3

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on sailfish
+title: Install Lynnrin-AOSP on sailfish
 folder: install
 permalink: /devices/sailfish/install
 device: sailfish

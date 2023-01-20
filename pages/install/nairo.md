@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on nairo
+title: Install Lynnrin-AOSP on nairo
 folder: install
 permalink: /devices/nairo/install
 device: nairo

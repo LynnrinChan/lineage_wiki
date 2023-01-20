@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lemonadep
+title: Install Lynnrin-AOSP on lemonadep
 folder: install
 permalink: /devices/lemonadep/install
 device: lemonadep

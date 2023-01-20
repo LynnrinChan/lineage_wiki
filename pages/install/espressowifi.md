@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on espressowifi
+title: Install Lynnrin-AOSP on espressowifi
 folder: install
 permalink: /devices/espressowifi/install
 device: espressowifi

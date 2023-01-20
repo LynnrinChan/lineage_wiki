@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on vayu
+title: Install Lynnrin-AOSP on vayu
 folder: install
 permalink: /devices/vayu/install
 device: vayu

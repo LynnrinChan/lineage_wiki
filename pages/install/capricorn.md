@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on capricorn
+title: Install Lynnrin-AOSP on capricorn
 folder: install
 permalink: /devices/capricorn/install
 device: capricorn

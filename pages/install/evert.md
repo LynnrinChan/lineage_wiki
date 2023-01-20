@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on evert
+title: Install Lynnrin-AOSP on evert
 folder: install
 permalink: /devices/evert/install
 device: evert

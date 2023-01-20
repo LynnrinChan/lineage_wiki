@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on targa
+title: Install Lynnrin-AOSP on targa
 folder: install
 permalink: /devices/targa/install
 device: targa

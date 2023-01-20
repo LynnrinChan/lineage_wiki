@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on bullhead
+title: Install Lynnrin-AOSP on bullhead
 folder: install
 permalink: /devices/bullhead/install
 device: bullhead

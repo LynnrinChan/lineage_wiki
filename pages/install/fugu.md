@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on fugu
+title: Install Lynnrin-AOSP on fugu
 folder: install
 permalink: /devices/fugu/install
 device: fugu

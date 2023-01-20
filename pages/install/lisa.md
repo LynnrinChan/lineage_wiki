@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on lisa
+title: Install Lynnrin-AOSP on lisa
 folder: install
 permalink: /devices/lisa/install
 device: lisa

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on channel
+title: Install Lynnrin-AOSP on channel
 folder: install
 permalink: /devices/channel/install
 device: channel

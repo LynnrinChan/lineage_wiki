@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on charlotte
+title: Install Lynnrin-AOSP on charlotte
 folder: install
 permalink: /devices/charlotte/install
 device: charlotte

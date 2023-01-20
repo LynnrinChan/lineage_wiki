@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on tsubasa
+title: Install Lynnrin-AOSP on tsubasa
 folder: install
 permalink: /devices/tsubasa/install
 device: tsubasa

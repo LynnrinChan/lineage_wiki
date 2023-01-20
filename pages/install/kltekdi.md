@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kltekdi
+title: Install Lynnrin-AOSP on kltekdi
 folder: install
 permalink: /devices/kltekdi/install
 device: kltekdi

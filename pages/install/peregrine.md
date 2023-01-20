@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on peregrine
+title: Install Lynnrin-AOSP on peregrine
 folder: install
 permalink: /devices/peregrine/install
 device: peregrine

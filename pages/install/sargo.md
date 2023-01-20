@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on sargo
+title: Install Lynnrin-AOSP on sargo
 folder: install
 permalink: /devices/sargo/install
 device: sargo

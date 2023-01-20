@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on tenshi
+title: Install Lynnrin-AOSP on tenshi
 folder: install
 permalink: /devices/tenshi/install
 device: tenshi

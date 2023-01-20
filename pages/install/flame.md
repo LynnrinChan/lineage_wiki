@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on flame
+title: Install Lynnrin-AOSP on flame
 folder: install
 permalink: /devices/flame/install
 device: flame

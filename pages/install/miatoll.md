@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on miatoll
+title: Install Lynnrin-AOSP on miatoll
 folder: install
 permalink: /devices/miatoll/install
 device: miatoll

@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on walleye
+title: Install Lynnrin-AOSP on walleye
 folder: install
 permalink: /devices/walleye/install
 device: walleye

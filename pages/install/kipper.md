@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on kipper
+title: Install Lynnrin-AOSP on kipper
 folder: install
 permalink: /devices/kipper/install
 device: kipper

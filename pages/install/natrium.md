@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on natrium
+title: Install Lynnrin-AOSP on natrium
 folder: install
 permalink: /devices/natrium/install
 device: natrium

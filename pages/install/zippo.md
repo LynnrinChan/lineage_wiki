@@ -1,6 +1,6 @@
 ---
 sidebar: home_sidebar
-title: Install LineageOS on zippo
+title: Install Lynnrin-AOSP on zippo
 folder: install
 permalink: /devices/zippo/install
 device: zippo
